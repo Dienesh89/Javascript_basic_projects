@@ -1,0 +1,31 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+#lcm,#calc{
+    margin: 2% 0;
+    padding: 2%;    
+}
+.lcm{
+    display:flex;
+    width:40%;
+    margin:auto;
+}
+.division{
+    border-bottom: solid black;
+    width:28%;
+    text-align:center;
+    padding:1%;
+}
+.divisor{
+	  width:80%;
+    border:solid black;
+    text-align:center;
+    padding:1%;
+    border-top:none;
+    border-right:none;
+}
+#cont{
+	margin-top:40%;
+}
